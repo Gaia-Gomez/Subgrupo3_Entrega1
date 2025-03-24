@@ -1,4 +1,4 @@
-package ventas; // Asegúrate de que esté en el paquete correcto
+package ventas;
 
 public class Vendedor {
     private String tipoDocumento;
@@ -13,8 +13,19 @@ public class Vendedor {
         this.apellidos = apellidos;
     }
 
-    @Override
-    public String toString() {
-        return tipoDocumento + " " + numeroDocumento + ": " + nombres + " " + apellidos;
+    public String getTipoDocumento() {
+        return tipoDocumento;
+    }
+
+    public String getNumeroDocumento() {
+        return numeroDocumento;
+    }
+
+    public String getNombres() {
+        return nombres;
+    }
+
+    public String getApellidos() {
+        return apellidos;
     }
 }

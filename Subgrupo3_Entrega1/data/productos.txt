@@ -1,0 +1,10 @@
+P001;Laptop HP Pavilion 15
+P002;Mouse Logitech MX Master 3
+P003;Teclado mecánico Redragon K552
+P004;Monitor Samsung 27" Curvo
+P005;Audífonos Sony WH-1000XM4
+P006;Silla Gamer Cougar Armor One
+P007;Webcam Logitech C920
+P008;Disco Duro Externo Seagate 2TB
+P009;Impresora Epson EcoTank L3250
+P010;Tablet Samsung Galaxy Tab S6 Lite

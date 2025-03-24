@@ -1,0 +1,5 @@
+CC;1001234567;Carlos;Gómez
+CC;1023456789;Ana;Martínez
+TI;1001234567;Juan;Pérez
+CC;1012345678;Mariana;López
+CE;1045678901;Daniel;Rodríguez

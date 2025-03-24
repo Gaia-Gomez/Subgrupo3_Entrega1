@@ -1,2 +1,0 @@
-P001;Laptop
-P002;Teclado

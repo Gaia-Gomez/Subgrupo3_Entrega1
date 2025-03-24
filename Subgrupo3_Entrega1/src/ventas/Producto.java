@@ -1,10 +1,9 @@
-package ventas; // Asegúrate de que esté en el paquete correcto
+package ventas;
 
 public class Producto {
     private String id;
     private String nombre;
 
-    // Constructor que recibe dos Strings
     public Producto(String id, String nombre) {
         this.id = id;
         this.nombre = nombre;
@@ -16,10 +15,5 @@ public class Producto {
 
     public String getNombre() {
         return nombre;
-    }
-
-    @Override
-    public String toString() {
-        return id + ": " + nombre;
     }
 }
