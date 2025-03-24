@@ -1,0 +1,2 @@
+CC;123456789;Juan;Pérez
+TI;987654321;María;López
