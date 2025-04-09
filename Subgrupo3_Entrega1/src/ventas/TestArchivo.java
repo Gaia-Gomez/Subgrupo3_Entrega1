@@ -19,7 +19,7 @@ public class TestArchivo {
         try (BufferedReader br = new BufferedReader(new FileReader(archivo))) {
             String linea;
             while ((linea = br.readLine()) != null) {
-                System.out.println(linea);
+                System.out.println(linea);// Imprimimos cada línea del archivo
             }
         } catch (IOException e) {
             e.printStackTrace();
