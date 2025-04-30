@@ -1,5 +1,5 @@
-CC;1001234567;Carlos;Gómez
-CC;1023456789;Ana;Martínez
-TI;1001234567;Juan;Pérez
-CC;1012345678;Mariana;López
-CE;1045678901;Daniel;Rodríguez
+CC,1135955751,Ana Martínez
+CC,1840103537,Carlos Ramírez
+CC,1888126577,Carlos Gómez
+CC,1202885213,Carlos Ramírez
+CC,1406288523,Luisa Rodríguez
